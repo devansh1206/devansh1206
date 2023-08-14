@@ -7,16 +7,16 @@
 
 <ul>
 
-<li>🎓 I’m pursuing **B.Tech in Computer Science** from **Madan Mohan Malaviya University of Technology, Gorakhpur**</li>
-<li>🧑‍💻 I’m currently working as **ML R&D Intern** at **IPsoft Digital**</li>
-<li>🧑‍💻 I’m working on **Regex/NLP/Topic Modeling/Named entity recognition**</li>
-<li>🌱 I’m currently learning **Pytorch**</li>
-<li>👯 I’m looking to collaborate on **Machine Learning and Artificial Intelligence** related projects and research</li>
+<li>🎓 I’m pursuing <b>B.Tech in Computer Science</b> from <b>Madan Mohan Malaviya University of Technology, Gorakhpur</b></li>
+<li>🧑‍💻 I’m currently working as <b>ML R&D Intern</b> at <b>IPsoft Digital</b></li>
+<li>🧑‍💻 I’m working on <b>Regex/NLP/Topic Modeling/Named entity recognition</b></li>
+<li>🌱 I’m currently learning <b>Pytorch</b></li>
+<li>👯 I’m looking to collaborate on <b>Machine Learning and Artificial Intelligence</b> related projects and research</li>
 <li>🤝 I’m looking for help with **Natural Language Processing**</li>
-<li>💬 Ask me about **DSA, Problem Solving, Soft skills, Communication**</li>
+<li>💬 Ask me about <b>DSA, Problem Solving, Soft skills, Communication</b></li>
 <li>📔 Resume:=> <a href="https://drive.google.com/file/d/1Zt0U9NcDJP343I_MmKdX-zllAmcgVXI2/view?usp=drive_link">RESUME</a> </li>
-<li>📫 How to reach me **devanshchauhan08@gmail.com**</li>
-<li>⚡ Fun fact **I do poetry**</li>
+<li>📫 How to reach me devanshchauhan08@gmail.com</li>
+<li>⚡ Fun fact => I do <b>poetry</b></li>
 </ul>
 
 <h3 align="left">My CP Handles:</h3>
