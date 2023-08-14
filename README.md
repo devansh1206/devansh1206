@@ -12,7 +12,7 @@
 <li>🧑‍💻 I’m working on <b>Regex/NLP/Topic Modeling/Named entity recognition</b></li>
 <li>🌱 I’m currently learning <b>Pytorch</b></li>
 <li>👯 I’m looking to collaborate on <b>Machine Learning and Artificial Intelligence</b> related projects and research</li>
-<li>🤝 I’m looking for help with **Natural Language Processing**</li>
+<li>🤝 I’m looking for help with <b>Natural Language Processing</b></li>
 <li>💬 Ask me about <b>DSA, Problem Solving, Soft skills, Communication</b></li>
 <li>📔 Resume:=> <a href="https://drive.google.com/file/d/1Zt0U9NcDJP343I_MmKdX-zllAmcgVXI2/view?usp=drive_link">RESUME</a> </li>
 <li>📫 How to reach me devanshchauhan08@gmail.com</li>
