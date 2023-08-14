@@ -15,7 +15,7 @@
 <li>🤝 I’m looking for help with <b>Natural Language Processing</b></li>
 <li>💬 Ask me about <b>DSA, Problem Solving, Soft skills, Communication</b></li>
 <li>📔 Resume:=> <a href="https://drive.google.com/file/d/1Zt0U9NcDJP343I_MmKdX-zllAmcgVXI2/view?usp=drive_link">RESUME</a> </li>
-<li>📫 How to reach me <a href="devanshchauhan08@gmail.com">devanshchauhan08@gmail.com</a></li>
+<li>📫 How to reach me :- devanshchauhan08@gmail.com</li>
 <li>⚡ Fun fact => I do <b>poetry</b></li>
 </ul>
 
