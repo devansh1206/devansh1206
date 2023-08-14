@@ -18,7 +18,7 @@
 <li>📫 How to reach me :- devanshchauhan08@gmail.com</li>
 <li>⚡ Fun fact => I do <b>poetry</b></li>
 </ul>
-
+<hr>
 <h3 align="left">My CP Handles:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/devansh_1206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devansh_1206" height="30" width="40" /></a>
@@ -26,12 +26,14 @@
 <a href="https://www.leetcode.com/devansh_1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devansh_1206" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/devanshchauhan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devanshchauhan08" height="30" width="40" /></a>
 </p>
+<hr>
 <h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamdevanshd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdevanshd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devansh1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh1206" height="30" width="40" /></a>
 <a href="https://instagram.com/devansh_chauhan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devansh_chauhan08" height="30" width="40" /></a>
 </p>
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -50,7 +52,7 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
-
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh1206&show_icons=true&locale=en&layout=compact" alt="devansh1206" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh1206&show_icons=true&locale=en" alt="devansh1206" /></p>
