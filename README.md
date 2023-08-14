@@ -1,3 +1,7 @@
+<video width="500" height="200" autoplay>
+  <source src="https://drive.google.com/file/d/1YxtAaeuCZHiOuPDz2DBDY29-OhybaWli/view?usp=drive_link" type="video/mp4">
+</video>
+
 <h1 align="center">Hi there 👋, I'm Devansh!!</h1>
 <h3 align="center">Problem Solving || Competitive Programming || Machine Learning || Data Science</h3>
 
