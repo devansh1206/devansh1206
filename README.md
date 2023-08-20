@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/19WnKalQONoGS1_S5oYi9aVdIw8gfsNBY/view">
+<img src="github banner.gif">
 <h1 align="center">Hi there 👋, I'm Devansh!!</h1>
 <h3 align="center">Problem Solving || Competitive Programming || Machine Learning || Data Science</h3>
 
