@@ -2,6 +2,8 @@
 <h1 align="center">Hi there 👋, I'm Devansh!!</h1>
 <h3 align="center">Problem Solving || Competitive Programming || Machine Learning || Data Science</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <ul>
 
 <li>🎓 I’m pursuing <b>B.Tech in Computer Science</b> from <b>Madan Mohan Malaviya University of Technology, Gorakhpur</b></li>
