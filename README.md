@@ -1,7 +1,6 @@
 <img src="github banner.gif">
 <h1 align="center">Hi there 👋, I'm Devansh!!</h1>
 <h3 align="center">Problem Solving || Competitive Programming || Machine Learning || Data Science</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish831&label=Profile%20views&color=0e75b6&style=flat" alt="manish831" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <ul>
@@ -58,3 +57,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh1206&" alt="devansh1206" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh1206" alt="devansh1206" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh1206&label=Profile%20views&color=0e75b6&style=flat" alt="devansh1206" /> </p>
